@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# NewSoft <admin@newsoft.com.ua>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-02 20:57+0200\n"
+"PO-Revision-Date: 2013-05-02 20:58+0200\n"
+"Last-Translator: \n"
+"Language-Team: RUSSIAN <russian@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: nsx-referers.php:68 nsx-referers.php:156
+msgid "Hacker?"
+msgstr "Ошибка при обработе запроса"
+
+#: nsx-referers.php:83
+msgid "NSx Referers Search Phrases"
+msgstr "Поисковые фразы NSx Referers"
+
+#: nsx-referers.php:100
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: nsx-referers.php:103
+msgid "Page"
+msgstr "Страница"
+
+#: nsx-referers.php:105
+msgid "Search Phrase"
+msgstr "Поисковая фраза"
+
+#: nsx-referers.php:106
+msgid "Visits"
+msgstr "Переходов"
+
+#: nsx-referers.php:140
+msgid "Delete selected items"
+msgstr "Удалить выбранные элементы"
+
+#: nsx-referers.php:172
+msgid "NSx Referers Settings"
+msgstr "Настройки NSx Referers"
+
+#: nsx-referers.php:187
+msgid "Top pages limit"
+msgstr "Количество страниц"
+
+#: nsx-referers.php:196
+msgid "Top search phrases limit"
+msgstr "Количество поисковых фраз"
+
+#: nsx-referers.php:205
+msgid "Minimum of Search Phrases"
+msgstr "Минимальное количество поисковых фраз"
+
+#: nsx-referers.php:220
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#~ msgid "Hits"
+#~ msgstr "Переходов"
+
+#~ msgid "Title"
+#~ msgstr "Заглавие"
+
+#~ msgid "Number of links"
+#~ msgstr "Количество ссылок"
